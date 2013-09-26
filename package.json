@@ -1,0 +1,24 @@
+{
+  "name": "lxjs-twitter-raffle",
+  "version": "0.0.2",
+  "description": "LXJS Twitter Raffle",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "twitter-raffle": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pgte/lxjs-twitter-raffle.git"
+  },
+  "author": "pgte",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pgte/lxjs-twitter-raffle/issues"
+  },
+  "dependencies": {
+    "twitter": "~0.2.3"
+  }
+}
