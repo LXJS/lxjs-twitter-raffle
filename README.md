@@ -8,7 +8,7 @@ $ npm install -g lxjs-twitter-raffle
 
 ## Create a credentials file
 
-Named `.credentials.json` under the local dir:
+Named `.twitter_credentials.json` inside your home dir:
 
 ```javascript
 {

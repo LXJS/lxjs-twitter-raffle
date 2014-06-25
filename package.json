@@ -1,6 +1,6 @@
 {
   "name": "lxjs-twitter-raffle",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "LXJS Twitter Raffle",
   "main": "index.js",
   "scripts": {
@@ -19,6 +19,8 @@
     "url": "https://github.com/pgte/lxjs-twitter-raffle/issues"
   },
   "dependencies": {
+    "lodash": "^2.4.1",
+    "osenv": "^0.1.0",
     "twitter": "~0.2.3"
   }
 }
